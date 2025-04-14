@@ -8,10 +8,11 @@
 
 :root {
     --snitap-sun: #FFCD1E;
-    --snitap--sky-mid: #06B6D4;
-    --snitap-sky-light: #67E8F9 --snitap-joy-mid: #DB2777;
+    --snitap-sky-mid: #06B6D4;
+    --snitap-sky-light: #67E8F9;
+    --snitap-joy-mid: #DB2777;
     --snitap-joy-light: #F472b6;
-    --snitap--leaf-mid: #16A34A;
+    --snitap-leaf-mid: #16A34A;
 
     --text: #000000;
     --highlights: #000000;
